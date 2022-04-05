@@ -1,4 +1,4 @@
-# Data based Outlook to rReduce Flood Damage 
+# Data based Outlook to Reduce Flood Damage 
 # Exploratory Data Analysis: Flood Damage Reduction
 
 Introduction
