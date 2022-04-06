@@ -1,3 +1,0 @@
-The recent evolution of mobile devices has opened up new possibilities in providing highly integrated mobile services in healthcare. The objective of this paper is to describe the decision engine, development, and implementation of an electronic health record (EHR) integrated mobile  application at 
- MBR General Hospital. This application helps healthcare providers to view  medical records and patient information without the need for a stationary computer. In addition, the system should incorporate telemedicine where patients can conduct virtual medical consultations. This concept will create more customers in the hospital, especially those who are on outpatient department
-
